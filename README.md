@@ -1,6 +1,6 @@
 ### Ko Jaeyoung (고재영)
 
-contact : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyko1101@gmail.com)](mailto:jyko1101@gmail.com)
+contact : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyko1101@gmail.com)](mailto:jyko1101@gmail.com) jyko1101@gmail.com
 
 ![nuketuna1101's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuketuna1101&show_icons=true&theme=radical)
 
