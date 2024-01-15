@@ -1,8 +1,7 @@
 ## Ko Jaeyoung (고재영)
 
 
-<a href="https://mango-plantain-a78.notion.site/Ko-Jaeyoung-b1e7b3e1153b44ec83d9ee8938257577
-" target="_blank"><img src="https://img.shields.io/badge/Notion--Portfolio--jyko1101-red?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://jyko1101.notion.site/Ko-Jaeyoung-377d093630664ae3bfd3741ab41de15d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion--Portfolio--jyko1101-red?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 contact : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyko1101@gmail.com)](mailto:jyko1101@gmail.com) jyko1101@gmail.com
 
