@@ -1,5 +1,6 @@
 ## Ko Jaeyoung (고재영)
 
+my velog : https://velog.io/@nuketuna
 
 <a href="https://jyko1101.notion.site/Ko-Jaeyoung-377d093630664ae3bfd3741ab41de15d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion--Portfolio--jyko1101-red?style=flat-square&logo=Notion&logoColor=white"/></a>
 
