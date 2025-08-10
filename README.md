@@ -4,7 +4,13 @@
 
 #### contact : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyko1101@gmail.com)](mailto:jyko1101@gmail.com) jyko1101@gmail.com
 
+<br>
 
+2023.06 - 08 : haegin game client programmer (intern)
+
+2025.08 - : VM semi SW TL
+
+<br>
 
 #### technology stack
 
